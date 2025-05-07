@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
     int i, n, soma_div = 0;
 
     printf("Informe um número:\n");
